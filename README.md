@@ -1,6 +1,5 @@
-Sure! Based on your description, here's a basic `README.md` file for your `numpy` repository:
+Sure! Based on your description, here's a basic README.md file for your numpy repository:
 
-```markdown
 # NumPy Basics and Exercises
 
 This repository contains basic tutorials and exercises on NumPy, a fundamental package for scientific computing with Python.
@@ -37,15 +36,3 @@ cd numpy
 
 Contributions are welcome! If you have any suggestions for improvements or additional exercises, please feel free to open an issue or submit a pull request.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Acknowledgments
-
-- The NumPy community for providing extensive documentation and support.
-- All contributors who have helped improve this repository.
-
-```
-
-You can edit and expand this `README.md` file as needed. Let me know if there's anything specific you'd like to add or change!
